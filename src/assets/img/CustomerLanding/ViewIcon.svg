@@ -1,0 +1,10 @@
+<svg id="View_Icon_Button" data-name="View Icon Button" xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="Rectangle_5344" data-name="Rectangle 5344" fill="#fff" stroke="#e9eaf2" stroke-width="1">
+    <rect width="36" height="36" rx="6" stroke="none"/>
+    <rect x="0.5" y="0.5" width="35" height="35" rx="5.5" fill="none"/>
+  </g>
+  <g id="Group_23759" data-name="Group 23759" transform="translate(9 12)">
+    <path id="Path_16980" data-name="Path 16980" d="M2.031,10.758a.726.726,0,0,1,0-.511A9.4,9.4,0,0,1,10.984,4.5a9.407,9.407,0,0,1,8.953,5.742.716.716,0,0,1,0,.511A9.4,9.4,0,0,1,10.984,16.5a9.407,9.407,0,0,1-8.953-5.742Z" transform="translate(-1.984 -4.5)" fill="none" stroke="#0560fd" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_16981" data-name="Path 16981" d="M14.058,11.529A2.529,2.529,0,1,1,11.529,9a2.529,2.529,0,0,1,2.529,2.529Z" transform="translate(-2.529 -5.529)" fill="none" stroke="#0560fd" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg id="Reset_Icon_Button" data-name="Reset Icon Button" xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="Rectangle_5344" data-name="Rectangle 5344" fill="#fff" stroke="#e9eaf2" stroke-width="1">
+    <rect width="36" height="36" rx="6" stroke="none"/>
+    <rect x="0.5" y="0.5" width="35" height="35" rx="5.5" fill="none"/>
+  </g>
+  <g id="Group_29680" data-name="Group 29680" transform="translate(-1193.452 -480.409)">
+    <g id="Group_29670" data-name="Group 29670" transform="translate(1204.452 498.409)">
+      <path id="Path_17180" data-name="Path 17180" d="M-42.672-15.88a7,7,0,0,0,7-7" transform="translate(49.672 22.879)" fill="rgba(0,0,0,0)" stroke="#6e6e6e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_17182" data-name="Path 17182" d="M-35.672-15.88a7,7,0,0,1-7-7" transform="translate(42.672 22.879)" fill="rgba(0,0,0,0)" stroke="#6e6e6e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+    <path id="Path_17181" data-name="Path 17181" d="M-29.617-19.379a6.991,6.991,0,0,0-6.055-3.5,7,7,0,0,0-7,7" transform="translate(1247.124 514.288)" fill="rgba(0,0,0,0)" stroke="#6e6e6e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_17179" data-name="Path 17179" d="M-7.939-11.439v3.5h-3.5" transform="translate(1225.516 502.849)" fill="rgba(0,0,0,0)" stroke="#6e6e6e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+</svg>

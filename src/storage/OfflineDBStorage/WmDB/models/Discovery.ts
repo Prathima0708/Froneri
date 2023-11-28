@@ -1,0 +1,73 @@
+
+import {Model} from '@nozbe/watermelondb';
+import {field} from '@nozbe/watermelondb/decorators';
+
+class Discovery extends Model {
+	static table = 'discovery';
+
+	@field('discovery_id') discoveryId!: string;
+	@field('customer_ship_to') customerShipTo!: string;
+	@field('customer_status_code') customerStatusCode!: string;
+	@field('create_date') createDate!: string;
+	@field('update_date') updateDate!: string;
+	@field('created_by') createdBy!: string;
+	@field('modified_by') modifiedBy!: string;
+	@field('prospect_number') prospectNumber!: string;
+	@field('new_customer_request_status') newCustomerRequestStatus!: string;
+	@field('customer_creation_requested_by') customerCreationRequestedBy!: string;
+	@field('requested_datetime') requestedDatetime!: string;
+	@field('customer_bill_to') customerBillTo!: string;
+	@field('name1_bill_to') name1BillTo!: string;
+	@field('name2_bill_to') name2BillTo!: string;
+	@field('name3_bill_to') name3BillTo!: string;
+	@field('name4_bill_to') name4BillTo!: string;
+	@field('house_number_bill_to') houseNumberBillTo!: string;
+	@field('address1_bill_to') address1BillTo!: string;
+	@field('street1_bill_to') street1BillTo!: string;
+	@field('street2_bill_to') street2BillTo!: string;
+	@field('street3_bill_to') street3BillTo!: string;
+	@field('postal_code_bill_to') postalCodeBillTo!: string;
+	@field('city_bill_to') cityBillTo!: string;
+	@field('postal_box_bill_to') postalBoxBillTo!: string;
+	@field('postal_code_box_bill_to') postalCodeBoxBillTo!: string;
+	@field('city_box_bill_to') cityBoxBillTo!: string;
+	@field('country_bill_to') countryBillTo!: string;
+	@field('phone1_bill_to') phone1BillTo!: string;
+	@field('phone2_bill_to') phone2BillTo!: string;
+	@field('mail_address_bill_to') mailAddressBillTo!: string;
+	@field('fax_bill_to') faxBillTo!: string;
+	@field('local') local!: string;
+	@field('external_prospect_number') externalProspectNumber!: string;
+	@field('prospection_data_update_time') prospectionDataUpdateTime!: string;
+	@field('prospection_data_update_employee_number') prospectionDataUpdateEmployeeNumber!: string;
+	@field('name1_diff_addr') name1DiffAddr!: string;
+	@field('name2_diff_addr') name2DiffAddr!: string;
+	@field('name3_diff_addr') name3DiffAddr!: string;
+	@field('name4_diff_addr') name4DiffAddr!: string;
+	@field('house_number_diff_addr') houseNumberDiffAddr!: string;
+	@field('address1_diff_addr') address1DiffAddr!: string;
+	@field('street1_diff_addr') street1DiffAddr!: string;
+	@field('street2_diff_addr') street2DiffAddr!: string;
+	@field('street3_diff_addr') street3DiffAddr!: string;
+	@field('postal_code_diff_addr') postalCodeDiffAddr!: string;
+	@field('city_diff_addr') cityDiffAddr!: string;
+	@field('postal_box_diff_addr') postalBoxDiffAddr!: string;
+	@field('postal_code_box_diff_addr') postalCodeBoxDiffAddr!: string;
+	@field('city_box_diff_addr') cityBoxDiffAddr!: string;
+	@field('country_diff_addr') countryDiffAddr!: string;
+	@field('phone1_diff_addr') phone1DiffAddr!: string;
+	@field('phone2_diff_addr') phone2DiffAddr!: string;
+	@field('mail_address_diff_addr') mailAddressDiffAddr!: string;
+	@field('fax_diff_addr') faxDiffAddr!: string;
+	@field('indirect_prospect') indirectProspect!: string;
+	@field('qualification') qualification!: string;
+	@field('outside_market') outsideMarket!: boolean;
+	@field('web_site') webSite!: string;
+	@field('business_type') businessType!: string;
+	@field('sr_notes') srNotes!: string;
+	@field('sent_datetime') sentDatetime!: string;
+	@field('data_origin') dataOrigin!: string;
+	@field('last_sync_on') lastSyncOn!: number;
+}
+
+export default Discovery;

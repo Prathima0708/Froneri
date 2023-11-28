@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <filter id="Rectangle_6114" x="0" y="0" width="48" height="48" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Sales_Materials_Icon" data-name="Sales Materials Icon" transform="translate(6 6)">
+    <g transform="matrix(1, 0, 0, 1, -6, -6)" filter="url(#Rectangle_6114)">
+      <rect id="Rectangle_6114-2" data-name="Rectangle 6114" width="36" height="36" rx="6" transform="translate(6 6)" fill="#0560fd"/>
+    </g>
+    <path id="Path_16642" data-name="Path 16642" d="M3.439,8.863a1.893,1.893,0,0,1,.288-.022H16.96a1.893,1.893,0,0,1,.288.022m-13.809,0A1.905,1.905,0,0,0,1.863,11.02l.717,5.091A1.892,1.892,0,0,0,4.444,17.75h11.8a1.892,1.892,0,0,0,1.864-1.639l.717-5.091a1.905,1.905,0,0,0-1.576-2.157m-13.809,0v-3.2A1.9,1.9,0,0,1,5.322,3.75H8.569a1.247,1.247,0,0,1,.887.373l1.776,1.8a1.247,1.247,0,0,0,.887.373h3.246A1.9,1.9,0,0,1,17.248,8.2v.658" transform="translate(7.656 7.75)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>

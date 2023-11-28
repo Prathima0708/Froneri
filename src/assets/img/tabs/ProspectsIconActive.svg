@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <filter id="Rectangle_6117" x="0" y="0" width="48" height="48" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Prospects_Icon" data-name="Prospects Icon" transform="translate(6 6)">
+    <g transform="matrix(1, 0, 0, 1, -6, -6)" filter="url(#Rectangle_6117)">
+      <rect id="Rectangle_6117-2" data-name="Rectangle 6117" width="36" height="36" rx="6" transform="translate(6 6)" fill="#0560fd"/>
+    </g>
+    <path id="Path_16638" data-name="Path 16638" d="M15.667,6.5V8.833m0,0v2.333m0-2.333H18m-2.333,0H13.333m-1.75-3.208A2.625,2.625,0,1,1,8.958,3a2.625,2.625,0,0,1,2.625,2.625ZM4,15.627v-.086a4.958,4.958,0,0,1,9.917,0v.085a9.636,9.636,0,0,1-9.917,0Z" transform="translate(7.5 8.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>

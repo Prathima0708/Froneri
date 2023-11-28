@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "643959346051",
+    "project_id": "froneri-640b3",
+    "storage_bucket": "froneri-640b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643959346051:android:ba8498e505a5a84d551cb6",
+        "android_client_info": {
+          "package_name": "com.froneri.tessmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643959346051-ncnc13k7pct55vj77n4uj984ofjq1blj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVjWYDwOaHp-GKrI0yQRZs2R0-lDOyTIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643959346051-ncnc13k7pct55vj77n4uj984ofjq1blj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

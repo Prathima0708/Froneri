@@ -1,0 +1,7 @@
+<svg id="Tasks_Icon" data-name="Tasks Icon" xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="Rectangle_6113" data-name="Rectangle 6113" fill="#f2f3f7" stroke="#d7d8df" stroke-width="1" opacity="0">
+    <rect width="36" height="36" rx="6" stroke="none"/>
+    <rect x="0.5" y="0.5" width="35" height="35" rx="5.5" fill="none"/>
+  </g>
+  <path id="Path_16636" data-name="Path 16636" d="M9,5H7A2,2,0,0,0,5,7V19a2,2,0,0,0,2,2H17a2,2,0,0,0,2-2V7a2,2,0,0,0-2-2H15M9,5a2,2,0,0,0,2,2h2a2,2,0,0,0,2-2M9,5a2,2,0,0,1,2-2h2a2,2,0,0,1,2,2M9,14l2,2,4-4" transform="translate(6 6)" fill="none" stroke="#707070" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+</svg>

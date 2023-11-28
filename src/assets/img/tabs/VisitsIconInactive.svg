@@ -1,0 +1,7 @@
+<svg id="Visits_Icon" data-name="Visits Icon" xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="Rectangle_6110" data-name="Rectangle 6110" fill="#f2f3f7" stroke="#d7d8df" stroke-width="1" opacity="0">
+    <rect width="36" height="36" rx="6" stroke="none"/>
+    <rect x="0.5" y="0.5" width="35" height="35" rx="5.5" fill="none"/>
+  </g>
+  <path id="Path_16824" data-name="Path 16824" d="M5.917,2V4.395M14.083,2V4.395M3,14.342V6.053A1.706,1.706,0,0,1,4.75,4.395h10.5A1.706,1.706,0,0,1,17,6.053v8.289m-14,0A1.706,1.706,0,0,0,4.75,16h10.5A1.706,1.706,0,0,0,17,14.342m-14,0V8.816A1.706,1.706,0,0,1,4.75,7.158h10.5A1.706,1.706,0,0,1,17,8.816v5.526" transform="translate(8 9)" fill="none" stroke="#707070" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+</svg>

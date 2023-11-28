@@ -1,0 +1,7 @@
+<svg id="Copy_Icon_Button" data-name="Copy Icon Button" xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="Rectangle_5344" data-name="Rectangle 5344" fill="#fff" stroke="#e9eaf2" stroke-width="1">
+    <rect width="36" height="36" rx="6" stroke="none"/>
+    <rect x="0.5" y="0.5" width="35" height="35" rx="5.5" fill="none"/>
+  </g>
+  <path id="Path_17004" data-name="Path 17004" d="M15.386,16.1v3.115A1.066,1.066,0,0,1,14.3,20.25H4.841A1.066,1.066,0,0,1,3.75,19.212V7.442A1.066,1.066,0,0,1,4.841,6.4H6.659a9.219,9.219,0,0,1,1.455.114M15.386,16.1h3.273a1.066,1.066,0,0,0,1.091-1.038v-4.5a8.442,8.442,0,0,0-7.273-8.193,9.219,9.219,0,0,0-1.455-.114H9.2A1.066,1.066,0,0,0,8.114,3.288V6.519M15.386,16.1H9.2a1.066,1.066,0,0,1-1.091-1.038V6.519M19.75,12.635V10.9a3.2,3.2,0,0,0-3.273-3.115H15.023A1.066,1.066,0,0,1,13.932,6.75V5.365A3.2,3.2,0,0,0,10.659,2.25H9.568" transform="translate(6.25 6.75)" fill="none" stroke="#0560fd" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+</svg>

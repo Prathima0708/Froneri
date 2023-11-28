@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <filter id="Rectangle_6115" x="0" y="0" width="48" height="48" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Product_Icon" data-name="Product Icon" transform="translate(6 6)">
+    <g transform="matrix(1, 0, 0, 1, -6, -6)" filter="url(#Rectangle_6115)">
+      <rect id="Rectangle_6115-2" data-name="Rectangle 6115" width="36" height="36" rx="6" transform="translate(6 6)" fill="#0560fd"/>
+    </g>
+    <path id="Path_16641" data-name="Path 16641" d="M17,6.019,10,2.25,3,6.019m14,0L10,9.788m7-3.769v6.462L10,16.25M3,6.019l7,3.769M3,6.019v6.462l7,3.769m0-6.462V16.25" transform="translate(8.5 9.25)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>

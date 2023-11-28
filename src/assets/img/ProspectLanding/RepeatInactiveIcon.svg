@@ -1,0 +1,7 @@
+<svg id="Repeat_Icon" data-name="Repeat Icon" xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="Rectangle_5344" data-name="Rectangle 5344" fill="#fff" stroke="#e9eaf2" stroke-width="1">
+    <rect width="36" height="36" rx="6" stroke="none"/>
+    <rect x="0.5" y="0.5" width="35" height="35" rx="5.5" fill="none"/>
+  </g>
+  <path id="Path_17046" data-name="Path 17046" d="M15.214,10q0-1.355-.105-2.685A3,3,0,0,0,12.29,4.6a38.528,38.528,0,0,0-5.58,0A3,3,0,0,0,3.891,7.315q-.019.242-.035.485M15.214,10,17.5,7.8M15.214,10,12.929,7.8M3.786,10q0,1.355.105,2.685A3,3,0,0,0,6.71,15.4a38.512,38.512,0,0,0,5.58,0,3,3,0,0,0,2.819-2.713q.019-.242.035-.485M3.786,10l2.286,2.2M3.786,10,1.5,12.2" transform="translate(8.5 8.5)" fill="none" stroke="#707070" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+</svg>

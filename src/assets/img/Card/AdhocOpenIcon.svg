@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17" height="18.021" viewBox="0 0 17 18.021">
+  <g id="Group_22174" data-name="Group 22174" transform="translate(-15.5 -11.479)">
+    <g id="Group_22720" data-name="Group 22720">
+      <path id="Path_16710" data-name="Path 16710" d="M6.333,1.979V5m9.333-3.021V5M3,17V7A2,2,0,0,1,5,5H17a2,2,0,0,1,2,2V17M3,17a2,2,0,0,0,2,2H17a2,2,0,0,0,2-2" transform="translate(13 10)" fill="#c4daff" stroke="#0560fd" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Icon_awesome-question" data-name="Icon awesome-question" d="M4.808,0A3.218,3.218,0,0,0,1.873,1.778a.516.516,0,0,0,.088.642l.736.639a.375.375,0,0,0,.567-.081c.427-.613.744-.966,1.411-.966.525,0,1.173.387,1.173.969,0,.44-.317.667-.835,1a2.346,2.346,0,0,0-1.4,2.078V6.25a.442.442,0,0,0,.409.469H5.255a.442.442,0,0,0,.409-.469V6.137C5.664,5.3,7.8,5.265,7.8,3A3.1,3.1,0,0,0,4.808,0ZM4.637,7.294A1.277,1.277,0,0,0,3.456,8.647,1.277,1.277,0,0,0,4.637,10,1.277,1.277,0,0,0,5.818,8.647,1.277,1.277,0,0,0,4.637,7.294Z" transform="translate(19.2 17)" fill="#0560fd"/>
+    </g>
+  </g>
+</svg>

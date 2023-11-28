@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 72 72">
+  <g id="Export_Icon" data-name="Export Icon" transform="translate(10 10)">
+    <g id="Rectangle_5344" data-name="Rectangle 5344" transform="translate(-10 -10)" fill="#d20101" stroke="#e9eaf2" stroke-width="1" opacity="0.05">
+      <rect width="72" height="72" rx="6" stroke="none"/>
+      <rect x="0.5" y="0.5" width="71" height="71" rx="5.5" fill="none"/>
+    </g>
+    <g id="Group_24107" data-name="Group 24107" transform="translate(-5.304 -3.335)">
+      <g id="Group_23125" data-name="Group 23125" transform="translate(16.304 16.304)">
+        <path id="Vector" d="M0,7.2C.439,2.087,3.061,0,8.8,0h.184c6.334,0,8.871,2.541,8.871,8.888v9.257c0,6.346-2.536,8.888-8.871,8.888H8.8c-5.7,0-8.318-2.059-8.786-7.084" transform="translate(9.177)" fill="none" stroke="#d20101" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Vector-2" data-name="Vector" d="M0,0H18.784" transform="translate(0 13.502)" fill="none" stroke="#d20101" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Vector-3" data-name="Vector" d="M0,0,4.747,4.747,0,9.494" transform="translate(14.644 8.755)" fill="none" stroke="#d20101" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,657 @@
+[
+  {"fileName": "Calendars.xlsx", "level": 1, "table": "calendars"},
+  {"fileName": "Call_Centers.xlsx", "level": 1, "table": "call_centers"},
+  {"fileName": "Call_Places.xlsx", "level": 1, "table": "call_places"},
+  {
+    "fileName": "Claims_Configurations.xlsx",
+    "level": 1,
+    "table": "claims_configurations"
+  },
+  {"fileName": "Classifications.xlsx", "level": 1, "table": "classifications"},
+  {"fileName": "Contract_Type.xlsx", "level": 1, "table": "contract_type"},
+  {
+    "fileName": "Credit_Order_Reasons.xlsx",
+    "level": 1,
+    "table": "credit_order_reasons"
+  },
+  {
+    "fileName": "Customer_Business_Reasons.xlsx",
+    "level": 1,
+    "table": "customer_business_reasons"
+  },
+  {
+    "fileName": "Customer_Channels.xlsx",
+    "level": 1,
+    "table": "customer_channels"
+  },
+  {
+    "fileName": "Customer_Preference_Reasons.xlsx",
+    "level": 1,
+    "table": "customer_preference_reasons"
+  },
+  {
+    "fileName": "Customers_ABC_Classifications.xlsx",
+    "level": 1,
+    "table": "customers_abc_classifications"
+  },
+  {
+    "fileName": "Customers_Payment_Methods.xlsx",
+    "level": 1,
+    "table": "customers_payment_methods"
+  },
+  {
+    "fileName": "Customers_Payment_Terms.xlsx",
+    "level": 1,
+    "table": "customers_payment_terms"
+  },
+  {
+    "fileName": "Delivery_Overcost_Reasons.xlsx",
+    "level": 1,
+    "table": "delivery_overcost_reasons"
+  },
+  {"fileName": "Distributors.xlsx", "level": 1, "table": "distributors"},
+  {
+    "fileName": "Employee_Functions.xlsx",
+    "level": 1,
+    "table": "employee_functions"
+  },
+  {
+    "fileName": "Employees_Objectives.xlsx",
+    "level": 1,
+    "table": "employees_objectives"
+  },
+  {
+    "fileName": "Free_Item_Reasons.xlsx",
+    "level": 1,
+    "table": "free_item_reasons"
+  },
+  {
+    "fileName": "Holiday_Calendars_Holidays.xlsx",
+    "level": 1,
+    "table": "holiday_calendars_holidays"
+  },
+  {"fileName": "Item_Proposals.xlsx", "level": 1, "table": "item_proposals"},
+  {"fileName": "Languages.xlsx", "level": 1, "table": "languages"},
+  {
+    "fileName": "Layout_Colors_Fonts.xlsx",
+    "level": 1,
+    "table": "layout_colors_fonts"
+  },
+  {
+    "fileName": "Material_Hierarchy.xlsx",
+    "level": 1,
+    "table": "material_hierarchy"
+  },
+  {
+    "fileName": "No_Order_Reasons.xlsx",
+    "level": 1,
+    "table": "no_order_reasons"
+  },
+  {
+    "fileName": "Order_Change_Reason_Codes.xlsx",
+    "level": 1,
+    "table": "order_change_reason_codes"
+  },
+  {"fileName": "Order_Template.xlsx", "level": 1, "table": "order_template"},
+  {"fileName": "Order_Types.xlsx", "level": 1, "table": "order_types"},
+  {
+    "fileName": "Parameters_Values.xlsx",
+    "level": 1,
+    "table": "parameters_values"
+  },
+  {"fileName": "Person_Titles.xlsx", "level": 1, "table": "person_titles"},
+  {"fileName": "Piloting.xlsx", "level": 1, "table": "piloting"},
+  {
+    "fileName": "Plant_Zip_Code_Mapping.xlsx",
+    "level": 1,
+    "table": "plant_zip_code_mapping"
+  },
+  {"fileName": "Questions.xlsx", "level": 1, "table": "questions"},
+  {
+    "fileName": "Regional_Distribution_Centers.xlsx",
+    "level": 1,
+    "table": "regional_distribution_centers"
+  },
+  {
+    "fileName": "Return_Order_Reasons.xlsx",
+    "level": 1,
+    "table": "return_order_reasons"
+  },
+  {"fileName": "Sales_Area.xlsx", "level": 1, "table": "sales_area"},
+  {"fileName": "Sales_Teams.xlsx", "level": 1, "table": "sales_teams"},
+  {
+    "fileName": "Service_Request_Types.xlsx",
+    "level": 1,
+    "table": "service_request_types"
+  },
+  {"fileName": "Sync_Components.xlsx", "level": 1, "table": "sync_components"},
+  {"fileName": "Sync_Fields.xlsx", "level": 1, "table": "sync_fields"},
+  {"fileName": "Sync_Tables.xlsx", "level": 1, "table": "sync_tables"},
+  {"fileName": "Tasks.xlsx", "level": 1, "table": "tasks"},
+  {"fileName": "Territories.xlsx", "level": 1, "table": "territories"},
+  {"fileName": "Texts.xlsx", "level": 1, "table": "texts"},
+  {"fileName": "Texts_Reports.xlsx", "level": 1, "table": "texts_reports"},
+  {
+    "fileName": "Trade_Asset_Net_Contribution.xlsx",
+    "level": 1,
+    "table": "trade_asset_net_contribution"
+  },
+  {
+    "fileName": "Trade_Asset_Rejection_Reasons.xlsx",
+    "level": 1,
+    "table": "trade_asset_rejection_reasons"
+  },
+  {"fileName": "TSP_Routes.xlsx", "level": 1, "table": "tsp_routes"},
+  {"fileName": "Turnover_Groups.xlsx", "level": 1, "table": "turnover_groups"},
+  {
+    "fileName": "Unit_Conversions.xlsx",
+    "level": 1,
+    "table": "unit_conversions"
+  },
+  {
+    "fileName": "Units_Of_Measures.xlsx",
+    "level": 1,
+    "table": "units_of_measures"
+  },
+  {
+    "fileName": "Customers_Industry_Codes.xlsx",
+    "level": 2,
+    "table": "customers_industry_codes"
+  },
+  {"fileName": "Employees.xlsx", "level": 2, "table": "employees"},
+  {"fileName": "Layout_Groups.xlsx", "level": 2, "table": "layout_groups"},
+  {
+    "fileName": "Question_Answers.xlsx",
+    "level": 2,
+    "table": "question_answers"
+  },
+  {
+    "fileName": "RDC_TSP_Holiday_Calendar.xlsx",
+    "level": 2,
+    "table": "rdc_tsp_holiday_calendar"
+  },
+  {
+    "fileName": "Task_Employee_Objectives.xlsx",
+    "level": 2,
+    "table": "task_employee_objectives"
+  },
+  {
+    "fileName": "Task_Order_Template.xlsx",
+    "level": 2,
+    "table": "task_order_template"
+  },
+  {"fileName": "Task_Questions.xlsx", "level": 2, "table": "task_questions"},
+  {
+    "fileName": "Task_Sales_Teams.xlsx",
+    "level": 2,
+    "table": "task_sales_teams"
+  },
+  {
+    "fileName": "Territories_Hierarchy.xlsx",
+    "level": 2,
+    "table": "territories_hierarchy"
+  },
+  {"fileName": "Texts_Orders.xlsx", "level": 2, "table": "texts_orders"},
+  {
+    "fileName": "Trade_Assets_Contract_Templates.xlsx",
+    "level": 2,
+    "table": "trade_assets_contract_templates"
+  },
+  {
+    "fileName": "Trans_Shipment_Points.xlsx",
+    "level": 2,
+    "table": "trans_shipment_points"
+  },
+  {
+    "fileName": "Turnover_Groups_Material_Hierarchies.xlsx",
+    "level": 2,
+    "table": "turnover_groups_material_hierarchies"
+  },
+  {"fileName": "Authorizations.xlsx", "level": 3, "table": "authorizations"},
+  {"fileName": "Customers.xlsx", "level": 3, "table": "customers"},
+  {
+    "fileName": "Customers_Sales_Offices.xlsx",
+    "level": 3,
+    "table": "customers_sales_offices"
+  },
+  {"fileName": "Events.xlsx", "level": 3, "table": "events"},
+  {
+    "fileName": "Item_Proposals_Materials.xlsx",
+    "level": 3,
+    "table": "item_proposals_materials"
+  },
+  {
+    "fileName": "Layout_Groups_Material_Hierarchies.xlsx",
+    "level": 3,
+    "table": "layout_groups_material_hierarchies"
+  },
+  {
+    "fileName": "Layout_Groups_Materials.xlsx",
+    "level": 3,
+    "table": "layout_groups_materials"
+  },
+  {"fileName": "Layouts.xlsx", "level": 3, "table": "layouts"},
+  {
+    "fileName": "Leader_Materials.xlsx",
+    "level": 3,
+    "table": "leader_materials"
+  },
+  {
+    "fileName": "Materials_Not_Available.xlsx",
+    "level": 3,
+    "table": "materials_not_available"
+  },
+  {
+    "fileName": "Materials_Sales_Units.xlsx",
+    "level": 3,
+    "table": "materials_sales_units"
+  },
+  {
+    "fileName": "Materials_Unit_of_Measures.xlsx",
+    "level": 3,
+    "table": "materials_unit_of_measures"
+  },
+  {
+    "fileName": "Order_Template_Materials.xlsx",
+    "level": 3,
+    "table": "order_template_materials"
+  },
+  {
+    "fileName": "Postal_Code_Trans_Shipment_Points.xlsx",
+    "level": 3,
+    "table": "postal_code_trans_shipment_points"
+  },
+  {
+    "fileName": "Sales_Rep_Delegation.xlsx",
+    "level": 3,
+    "table": "sales_rep_delegation"
+  },
+  {
+    "fileName": "Sales_Representatives.xlsx",
+    "level": 3,
+    "table": "sales_representatives"
+  },
+  {"fileName": "Special_Routes.xlsx", "level": 3, "table": "special_routes"},
+  {
+    "fileName": "Storage_Locations.xlsx",
+    "level": 3,
+    "table": "storage_locations"
+  },
+  {
+    "fileName": "Substitution_Materials.xlsx",
+    "level": 3,
+    "table": "substitution_materials"
+  },
+  {
+    "fileName": "Sync_Stored_Procedures.xlsx",
+    "level": 3,
+    "table": "sync_stored_procedures"
+  },
+  {"fileName": "Task_Employees.xlsx", "level": 3, "table": "task_employees"},
+  {
+    "fileName": "Trade_Assets_Accessories.xlsx",
+    "level": 3,
+    "table": "trade_assets_accessories"
+  },
+  {
+    "fileName": "Trade_Assets_Minimum_Turnover.xlsx",
+    "level": 3,
+    "table": "trade_assets_minimum_turnover"
+  },
+  {
+    "fileName": "Discovery_Controls.xlsx",
+    "level": 3,
+    "table": "discovery_controls"
+  },
+  {
+    "fileName": "Discovery_List_Values.xlsx",
+    "level": 3,
+    "table": "discovery_list_values"
+  },
+  {"fileName": "Activities.xlsx", "level": 4, "table": "activities"},
+  {"fileName": "Calls.xlsx", "level": 4, "table": "calls"},
+  {
+    "fileName": "Catrin_Alternative_Routes.xlsx",
+    "level": 4,
+    "table": "catrin_alternative_routes"
+  },
+  {
+    "fileName": "Customer_Contacts.xlsx",
+    "level": 4,
+    "table": "customer_contacts"
+  },
+  {
+    "fileName": "Customer_Hierarchies_Ship_To.xlsx",
+    "level": 4,
+    "table": "customer_hierarchies_ship_to"
+  },
+  {
+    "fileName": "Customer_Ship_To_Order_Template.xlsx",
+    "level": 4,
+    "table": "customer_ship_to_order_template"
+  },
+  {
+    "fileName": "Customer_Vacations.xlsx",
+    "level": 4,
+    "table": "customer_vacations"
+  },
+  {
+    "fileName": "Customers_Additional_Information.xlsx",
+    "level": 4,
+    "table": "customers_additional_information"
+  },
+  {
+    "fileName": "Customers_Additional_Information_Client.xlsx",
+    "level": 4,
+    "table": "customers_additional_information_client"
+  },
+  {
+    "fileName": "Customers_Banks_Information.xlsx",
+    "level": 4,
+    "table": "customers_banks_information"
+  },
+  {
+    "fileName": "Customers_Bill_To.xlsx",
+    "level": 4,
+    "table": "customers_bill_to"
+  },
+  {
+    "fileName": "Customers_Different_Delivery_Address.xlsx",
+    "level": 4,
+    "table": "customers_different_delivery_address"
+  },
+  {
+    "fileName": "Customers_Financial_Information.xlsx",
+    "level": 4,
+    "table": "customers_financial_information"
+  },
+  {
+    "fileName": "Customers_Materials_Preference.xlsx",
+    "level": 4,
+    "table": "customers_materials_preference"
+  },
+  {"fileName": "Customers_Payer.xlsx", "level": 4, "table": "customers_payer"},
+  {
+    "fileName": "Customers_Route_Customer_Assignment.xlsx",
+    "level": 4,
+    "table": "customers_route_customer_assignment"
+  },
+  {
+    "fileName": "Customers_Ship_To_Item_Proposals.xlsx",
+    "level": 4,
+    "table": "customers_ship_to_item_proposals"
+  },
+  {
+    "fileName": "Customers_Sold_To.xlsx",
+    "level": 4,
+    "table": "customers_sold_to"
+  },
+  {
+    "fileName": "Customers_Synchro.xlsx",
+    "level": 4,
+    "table": "customers_synchro"
+  },
+  {
+    "fileName": "Customers_Turnover_Information.xlsx",
+    "level": 4,
+    "table": "customers_turnover_information"
+  },
+  {
+    "fileName": "Deliveries_Aggregated_Leader_Materials.xlsx",
+    "level": 4,
+    "table": "deliveries_aggregated_leader_materials"
+  },
+  {
+    "fileName": "Deliveries_Aggregated_Ship_To_Materials.xlsx",
+    "level": 4,
+    "table": "deliveries_aggregated_ship_to_materials"
+  },
+  {
+    "fileName": "Deliveries_Detailed_Last_10.xlsx",
+    "level": 4,
+    "table": "deliveries_detailed_last_10"
+  },
+  {
+    "fileName": "Deliveries_Last_10.xlsx",
+    "level": 4,
+    "table": "deliveries_last_10"
+  },
+  {
+    "fileName": "Free_Goods_Header.xlsx",
+    "level": 4,
+    "table": "free_goods_header"
+  },
+  {
+    "fileName": "Internal_Messages.xlsx",
+    "level": 4,
+    "table": "internal_messages"
+  },
+  {
+    "fileName": "Layout_Groups_Sequences.xlsx",
+    "level": 4,
+    "table": "layout_groups_sequences"
+  },
+  {"fileName": "Orders.xlsx", "level": 4, "table": "orders"},
+  {
+    "fileName": "Orders_Aggregated.xlsx",
+    "level": 4,
+    "table": "orders_aggregated"
+  },
+  {"fileName": "Promotions.xlsx", "level": 4, "table": "promotions"},
+  {
+    "fileName": "Sales_Deals_Customer_Ship_To_Aggregated.xlsx",
+    "level": 4,
+    "table": "sales_deals_customer_ship_to_aggregated"
+  },
+  {
+    "fileName": "Sales_Office_Trade_Asset_Plants.xlsx",
+    "level": 4,
+    "table": "sales_office_trade_asset_plants"
+  },
+  {
+    "fileName": "Service_Requests_Customers.xlsx",
+    "level": 4,
+    "table": "service_requests_customers"
+  },
+  {
+    "fileName": "Stocks_ATP_Finished_Products.xlsx",
+    "level": 4,
+    "table": "stocks_atp_finished_products"
+  },
+  {
+    "fileName": "Task_Customer_Hierarchy.xlsx",
+    "level": 4,
+    "table": "task_customer_hierarchy"
+  },
+  {
+    "fileName": "Territories_Customers.xlsx",
+    "level": 4,
+    "table": "territories_customers"
+  },
+  {
+    "fileName": "Territories_Sales_Representatives.xlsx",
+    "level": 4,
+    "table": "territories_sales_representatives"
+  },
+  {
+    "fileName": "Trade_Asset_Accessories_Customers.xlsx",
+    "level": 4,
+    "table": "trade_asset_accessories_customers"
+  },
+  {
+    "fileName": "Trade_Assets_Customers.xlsx",
+    "level": 4,
+    "table": "trade_assets_customers"
+  },
+  {
+    "fileName": "Turnover_Aggregated.xlsx",
+    "level": 4,
+    "table": "turnover_aggregated"
+  },
+  {
+    "fileName": "Turnover_Aggregated_Customers_Materials.xlsx",
+    "level": 4,
+    "table": "turnover_aggregated_customers_materials"
+  },
+  {
+    "fileName": "Turnover_Aggregated_Month.xlsx",
+    "level": 4,
+    "table": "turnover_aggregated_month"
+  },
+  {"fileName": "Call_Contacts.xlsx", "level": 5, "table": "call_contacts"},
+  {
+    "fileName": "Customer_Ship_To_Coupon_Codes.xlsx",
+    "level": 5,
+    "table": "customer_ship_to_coupon_codes"
+  },
+  {
+    "fileName": "Customers_Claims_WorkFlow_Claims_Data.xlsx",
+    "level": 5,
+    "table": "customers_claims_workflow_claims_data"
+  },
+  {
+    "fileName": "Customers_Claims_WorkFlow_Header.xlsx",
+    "level": 5,
+    "table": "customers_claims_workflow_header"
+  },
+  {
+    "fileName": "Customers_Claims_WorkFlow_Settlement_Data.xlsx",
+    "level": 5,
+    "table": "customers_claims_workflow_settlement_data"
+  },
+  {
+    "fileName": "Customers_Materials.xlsx",
+    "level": 5,
+    "table": "customers_materials"
+  },
+  {
+    "fileName": "Customers_Promotion_Details.xlsx",
+    "level": 5,
+    "table": "customers_promotion_details"
+  },
+  {
+    "fileName": "Customers_Ship_To_Promotions.xlsx",
+    "level": 5,
+    "table": "customers_ship_to_promotions"
+  },
+  {
+    "fileName": "OOS_Ordered_Materials.xlsx",
+    "level": 5,
+    "table": "oos_ordered_materials"
+  },
+  {"fileName": "Order_Lines.xlsx", "level": 5, "table": "order_lines"},
+  {
+    "fileName": "Order_Lines_Free_Goods.xlsx",
+    "level": 5,
+    "table": "order_lines_free_goods"
+  },
+  {
+    "fileName": "Promotions_Materials.xlsx",
+    "level": 5,
+    "table": "promotions_materials"
+  },
+  {
+    "fileName": "Service_Requests_Customers_Journal.xlsx",
+    "level": 5,
+    "table": "service_requests_customers_journal"
+  },
+  {"fileName": "Task_Execution.xlsx", "level": 5, "table": "task_execution"},
+  {"fileName": "Prospects.xlsx", "level": 5, "table": "prospects"},
+  {
+    "fileName": "Discovery_Customer_Attributes.xlsx",
+    "level": 5,
+    "table": "discovery_customer_attributes"
+  },
+  {
+    "fileName": "Discovery_Contacts.xlsx",
+    "level": 5,
+    "table": "discovery_contacts"
+  },
+  {"fileName": "Discovery_RCA.xlsx", "level": 5, "table": "discovery_rca"},
+  {
+    "fileName": "Discovery_Financial_Data.xlsx",
+    "level": 5,
+    "table": "discovery_financial_data"
+  },
+  {
+    "fileName": "Discovery_Trade_Assets.xlsx",
+    "level": 5,
+    "table": "discovery_trade_assets"
+  },
+  {
+    "fileName": "Discovery_New_Trade_Assets_Wished.xlsx",
+    "level": 5,
+    "table": "discovery_new_trade_assets_wished"
+  },
+  {
+    "fileName": "Discovery_Previous_Owner_Trade_Assets.xlsx",
+    "level": 5,
+    "table": "discovery_previous_owner_trade_assets"
+  },
+  {
+    "fileName": "Discovery_Trade_Assets_Charge_Off.xlsx",
+    "level": 5,
+    "table": "discovery_trade_assets_charge_off"
+  },
+  {
+    "fileName": "Discovery_Condition_Agreements.xlsx",
+    "level": 5,
+    "table": "discovery_condition_agreements"
+  },
+  {"fileName": "Discovery_SEPA.xlsx", "level": 5, "table": "discovery_sepa"},
+  {
+    "fileName": "Discovery_Agreement_Requests.xlsx",
+    "level": 5,
+    "table": "discovery_agreement_requests"
+  },
+  {
+    "fileName": "Seasonstart_Order_Details.xlsx",
+    "level": 5,
+    "table": "seasonstart_order_details"
+  },
+  {
+    "fileName": "Customers_Credit_Orders_Amount.xlsx",
+    "level": 6,
+    "table": "customers_credit_orders_amount"
+  },
+  {
+    "fileName": "Order_Lines_Promotion.xlsx",
+    "level": 6,
+    "table": "order_lines_promotion"
+  },
+  {
+    "fileName": "Task_Execution_Answers.xlsx",
+    "level": 6,
+    "table": "task_execution_answers"
+  },
+  {
+    "fileName": "Discovery.xlsx",
+    "level": 7,
+    "table": "discovery"
+  },
+  {
+    "fileName": "Materials.xlsx",
+    "level": 7,
+    "table": "materials"
+  },
+  {
+    "fileName": "Order_Template_Sales_Team.xlsx",
+    "level": 7,
+    "table": "order_template_sales_team"
+  },
+  {
+    "fileName": "Prospect_Visit_Notes.xlsx",
+    "level": 7,
+    "table": "prospect_visit_notes"
+  },
+  {
+    "fileName": "Trade_Asset_Pickup_Order_Reasons.xlsx",
+    "level": 7,
+    "table": "trade_asset_pickup_order_reasons"
+  },
+  {
+    "fileName": "RebateTracker_Rebate_Financial_Conditions.xlsx",
+    "level": 7,
+    "table": "rebatetracker_rebate_financial_conditions"
+  }
+]
